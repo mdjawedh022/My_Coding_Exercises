@@ -1,0 +1,27 @@
+My_Coding_Exercises/
+├── DSA/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Recursion/
+│   ├── LinkedList/
+│   └── Trees/
+├── JavaScript/
+│   ├── Functions/
+│   ├── Promises/
+│   └── DOM_Practice/
+├── React/
+│   ├── Components/
+│   ├── Hooks/
+│   └── Projects/
+├── Projects/
+│   ├── ToDo_App/
+│   ├── Weather_App/
+│   └── Calculator/
+├── Challenges/
+│   ├── Leetcode/
+│   ├── Codeforces/
+│   └── HackerRank/
+└── Notes/
+    ├── Interview_Tips.md
+    ├── Shortcuts.md
+    └── Syntax_Notes.md
